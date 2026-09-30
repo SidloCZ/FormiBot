@@ -43,3 +43,6 @@ desktop.ini
 # Logs
 *.log
 logs/
+
+# Ignorované pracovní složky
+1. pokus IDE/
