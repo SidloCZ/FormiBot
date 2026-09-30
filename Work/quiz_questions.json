@@ -1,0 +1,1111 @@
+{
+    "mravenci": {
+        "lehká": {
+            "Jak se jmenuje latinsky druh mravence, kterému se obecně (triviálně) říká Mravenec horský?": {
+                "answer": [
+                    "Manica rubida"
+                ],
+                "points": 15
+            },
+            "Teplota pro diapauzu mravenců z území ČR nebo SR, napiš hodnotu ve °C": {
+                "answer": [
+                    "5-10",
+                    "3-8",
+                    "pět až 10",
+                    "tři až osm",
+                    "kolem 5"
+                ],
+                "points": 20
+            },
+            "Jaké délky může dosahovat královna C. ligniperda, pokud bude mít nafouklý zadeček?": {
+                "answer": [
+                    "až 20 mm",
+                    "asi 20 mm",
+                    "2 cm",
+                    "20 mm"
+                ],
+                "points": 20
+            },
+            "Do jakého podrodu Camponotus patří *Camponotus nicobarensis*?": {
+                "answer": [
+                    "Tanaemyrmex"
+                ],
+                "points": 20
+            },
+            "Ako sa volá tento druh mravca \n https://media.discordapp.com/attachments/810864425996779561/1365073212488290414/DSCN2035.JPG": {
+                "answer": [
+                    "Camponotus vagus",
+                    "Camponotus_vagus"
+                ],
+                "points": 20
+            },
+            "Jak dlouho trvá vývoj potomstva u camponotus nicobarensis? (ve dnech/rozsah)": {
+                "answer": [
+                    "35 až 40",
+                    "35-40",
+                    "35",
+                    "40"
+                ],
+                "points": 20
+            },
+            "Kolika let maximálně se v zajetí dožila královna *Lasius niger*?": {
+                "answer": [
+                    "29 let",
+                    "29",
+                    "29 roků"
+                ],
+                "points": 20
+            },
+            "Jak se jmenuje královna antczechovy kolonie druhu *Lasius niger*(té největší)": {
+                "answer": [
+                    "Black Lady"
+                ],
+                "points": 15
+            },
+            "Jaký typ materiálu hnízda ve formikáriu je nejvhodnější pro nejvyšší vlhkost? (mimo přírodní setup)": {
+                "answer": [
+                    "Sádrové",
+                    "Ytongové uzavřené",
+                    "sádra"
+                ],
+                "points": 20
+            },
+            "Co je to kokon? \n A) obvykle vláknitý obal, který chrání vajíčka nebo kuklu některých členovců \n B) obal pro miminka žab \n C) jiný název pro exkrement": {
+                "answer": [
+                    "A",
+                    "a)"
+                ],
+                "points": 15
+            },
+            "Kolik druhů rodu *Camponotus* žije ve velké Británii?": {
+                "answer": [
+                    "0",
+                    "žádný",
+                    "nula"
+                ],
+                "points": 15
+            },
+            "**Pravda nebo lež:** Většina mravenců dokáže krátkodobě přežít záporné teploty": {
+                "answer": [
+                    "pravda",
+                    "ano"
+                ],
+                "points": 10
+            },
+            "Jaký je český doslovný překlad druhu *Camponotus cruentatus*? (neoficiálně)": {
+                "answer": [
+                    "mravenec krvavý",
+                    "cukromilka krvavá"
+                ],
+                "points": 20
+            },
+            "Jaký druh mravenců patří v Evropě mezi nejhojnější a při rojení ho najdeme všude? ": {
+                "answer": [
+                    "Lasius niger",
+                    "mravenec obecný",
+                    "L. niger"
+                ],
+                "points": 10
+            },
+            "Jaký je největší druh mravence v ČR? (počítáme i královny)": {
+                "answer": [
+                    "Camponotus ligniperda",
+                    "mravenec dřevokaz",
+                    "C. ligniperda"
+                ],
+                "points": 15
+            },
+            "Je pravda, že v ČR je zatím rod *Formica* chráněn zákonem?": {
+                "answer": [
+                    "ano",
+                    "je",
+                    "pravda"
+                ],
+                "points": 15
+            },
+            "Jaký střední až velký druh z ČR nebo SR má žihadlo a může nás bodnout?": {
+                "answer": [
+                    "Manica rubida",
+                    "mravenec horský"
+                ],
+                "points": 30
+            },
+            "Jak se anglicky nazývá čerstvě vylíhlá dělnice mravenců s neztvrdlým exoskeletem?": {
+                "answer": [
+                    "callow"
+                ],
+                "points": 30
+            },
+            "Co znamená zkratka EotU?": {
+                "answer": [
+                    "Empires of the Undergrowth"
+                ],
+                "points": 30
+            },
+            "Kdy se nejvíce rojí *C. ligniperda a herculeanus*? \nA) teplá rána \nB) chladné dny \nC) za teplých večerů po 16h": {
+                "answer": [
+                    "c",
+                    "C)"
+                ],
+                "points": 30
+            },
+            "Kolik má AntsCzech nyní odběratel? \nA)25 000-30 000 \nB) 45 000-48 000 \nC) 48 000-49 000": {
+                "answer": [
+                    "b",
+                    "B)"
+                ],
+                "points": 15
+            },
+            "Který z těchto druhů je/jsou vhodné pro začátečníky? \nA) Lasius brunneus \nB) Camponotus nicobarensis \nC) Colobobsis truncata \nD) Harpegnathos venator": {
+                "answer": [
+                    "a,b",
+                    "A, B",
+                    "a a B",
+                    "a b"
+                ],
+                "points": 30
+            },
+            "Jak se doslovně překládá *Camponotus sanctus*?(neoficiálně)": {
+                "answer": [
+                    "mravenec svatý",
+                    "m. svatý",
+                    "mravec svätý"
+                ],
+                "points": 20
+            },
+            "Jaký je český překlad pro druh *Camponotus nicobarensis*? (neoficiální)": {
+                "answer": [
+                    "nikobarský",
+                    "mravenec nikobarský",
+                    "m. nikobarský"
+                ],
+                "points": 15
+            },
+            "Který z těchto mravenců kouše? \nA) Formica rufa \nB) Camponotus ligniperda \nC) Camponotus cruentatus \nD) Mají kusadla, proto toho jsou schopni všichni": {
+                "answer": [
+                    "D",
+                    "d)"
+                ],
+                "points": 15
+            },
+            "Jak se nejlépe česky nazývají mravenci podčeledi *Dorylinae*? ||Nejen druhy této podčeledi vykazují znaky tzv. „Army ant syndromu.“||  \nA) Armádní mravenci \nB) Legionářští mravenci \nC) Nomádští mravenci \nD) Kočovní mravenci": {
+                "answer": [
+                    "B",
+                    "b)"
+                ],
+                "points": 20
+            },
+            "Odkud pochází *Camponotus singularis*? \nA) severní Afrika \nB) severozápadní Asie \nC) jihovýchodní Asie ": {
+                "answer": [
+                    "C",
+                    "c)"
+                ],
+                "points": 25
+            },
+            "Co znamená pojem „termitárium“? \nA) terárium pro termity \nB) wikipedie s termity \nC) prodej termitů": {
+                "answer": [
+                    "A",
+                    "a)"
+                ],
+                "points": 20
+            },
+            "Jak se jmenuje vědecky mravenec na obrázku?\n https://cdn.discordapp.com/attachments/791692102853066813/1063520824675553320/DSCN75242.png": {
+                "answer": [
+                    "Messor barbarus"
+                ],
+                "points": 20
+            },
+            "Bodnutí jakého druhu mravence se považuje za nejbolestivější na světě?": {
+                "answer": [
+                    "Paraponera clavata",
+                    "P. clavata"
+                ],
+                "points": 15
+            },
+            "Jak správně zapisujeme vědecké názvy? \na) camponotus Vagus \nb) *Camponotus Vagus* \nc) camponotus vagus \nd) Camponotus vagus \ne) *Camponotus vagus*": {
+                "answer": [
+                    "e",
+                    "E)"
+                ],
+                "points": 30
+            },
+            "Jak se triviálně anglicky nazývá tento rod mravenců?\nhttps://cdn.discordapp.com/attachments/791692102853066813/1064169495234617354/Zws93Xa7Vmm9Q3uoaRBNwn-1200-80.jpg": {
+                "answer": [
+                    "Vampire ant",
+                    "Dracula ant"
+                ],
+                "points": 30
+            },
+            "O jaký druh se jedná? \nA) Camponotus (podrod Hypercolobopsis) paradoxus \nB) Camponotus (Hypercolobopsis) ulcerosus \nC) Colobopsis etiolata \nD) Colobopsis truncata \nhttps://i.pinimg.com/originals/52/1e/b6/521eb65ee4b27c0459182b3846842358.jpg \nhttps://i.pinimg.com/originals/d9/4a/0f/d94a0fd7eaecc9b521c0d030445f8e58.jpg": {
+                "answer": [
+                    "b",
+                    "B)"
+                ],
+                "points": 25
+            },
+            "Jakou roli označíte, pokud si nevíte rady ohledně mravenců a chcete pomoct? \nA) AntsCzech \nB) Formikaristika CZ \nC) Mravenčí Poradce D) Poradci chovu mravenců": {
+                "answer": [
+                    "C",
+                    "C)"
+                ],
+                "points": 20
+            },
+            "Co je to haplometróza? \nA) poloviční pleometróza \nB) Založení mravenčí kolonie jedinou královnou \nC) Způsob krmení larev mravenců výživovými (trofickými) vajíčky produkovanými dělnicemi \nD) Vznik samčích alátů z haploidních vajíček (neoplodněná, pouze 1 set chromozomů) https://cdn.discordapp.com/attachments/662424508266840080/1391786503600078888/image.png": {
+                "answer": [
+                    "B",
+                    "b)"
+                ],
+                "points": 30
+            },
+            "Jaký je nejvýznamnější zdroj sacharidů u Mravenců zrnojedů?": {
+                "answer": [
+                    "semena",
+                    "semínka",
+                    "seeds"
+                ],
+                "points": 15
+            },
+            "Jak se nazývá proces, při kterém mravenci vyměňují potravu a informace v kolonii?": {
+                "answer": [
+                    "trofalaxe"
+                ],
+                "points": 20
+            },
+            "Jaký je hlavní úkol královny mravenců?": {
+                "answer": [
+                    "kladení vajíček",
+                    "vajíčka"
+                ],
+                "points": 15
+            },
+            "Mají všichni mravenci křídla? (Pravda/Nepravda)": {
+                "answer": [
+                    "nepravda",
+                    "ne"
+                ],
+                "points": 10
+            },
+            "Co je to formikárium? \nA) Přirozené mraveniště v přírodě \nB) Umělá chovná nádoba pro mravence \nC) Místo, kde mravenci zimují \nD) Druh mravenčí potravy": {
+                "answer": [
+                    "B"
+                ],
+                "points": 20
+            },
+            "Jak se u některých druhů nazývá nejmenší kasta dělnic, která se převážně stará o potomstvo?": {
+                "answer": [
+                    "minor",
+                    "minor dělnice"
+                ],
+                "points": 30
+            },
+            "Jaký je primární zdroj potravy pro většinu mravenců?": {
+                "answer": [
+                    "cukry",
+                    "medovice",
+                    "nektar"
+                ],
+                "points": 15
+            },
+            "Co je to diapauza u mravenců?": {
+                "answer": [
+                    "období klidu"
+                ],
+                "points": 20
+            },
+            "Jaký je anglický název pro rod *Pheidole*?": {
+                "answer": [
+                    "Big headed ants",
+                    "Big-headed ants"
+                ],
+                "points": 10
+            },
+            "Kolik dělnic může být v jedné dospělé kolonii *Atta cephalotes*?": {
+                "answer": [
+                    "přes 10 milionů",
+                    "přes 10mil",
+                    "10+mil",
+                    "10 000 000",
+                    "10000000"
+                ],
+                "points": 20
+            },
+            "Jaký je mechanismus obrany mravenců rodu *Formica* proti predátorům?": {
+                "answer": [
+                    "stříkání kyseliny mravenčí",
+                    "kyselina",
+                    "stříkání kyseliny"
+                ],
+                "points": 30
+            },
+            "Co je to pleometróza? \nA) zakládání kolonie více královnami \nB) měření (metróza) délky skoku mravenců rodu Pleomyrmex C) Zakládání kolonie jedinou královnou": {
+                "answer": [
+                    "A",
+                    "a)"
+                ],
+                "points": 30
+            },
+            "Co je to gyne? \nA) Zkratka pro gynekologa \nB) Reproduktivní samičí kasta \nC) ": {
+                "answer": [
+                    "B",
+                    "b)"
+                ],
+                "points": 25
+            }
+        },
+        "střední": {
+            "Jak zní české jméno *Camponotus piceus*?": {
+                "answer": [
+                    "m. smolný",
+                    "mravenec smolný"
+                ],
+                "points": 40
+            },
+            "Ve kterém měsíci se nejvíce rojí *Dinomyrmex gigas*?": {
+                "answer": [
+                    "červen",
+                    "jún"
+                ],
+                "points": 40
+            },
+            "Ve které zemi žila nejdéle žijící královna *L. niger* v zajetí?": {
+                "answer": [
+                    "Německo",
+                    "Germany",
+                    "Deutschland"
+                ],
+                "points": 40
+            },
+            "Který druh mravenců z Afriky pořádá nájezdy (raidy), živí se termity a má tzv. zdravotníky?": {
+                "answer": [
+                    "Megaponera analis",
+                    "M. analis"
+                ],
+                "points": 40
+            },
+            "Jaký druh z těchto sklípkanů je toxicky významný \nA) Brachypelma boehmei \nB) Gramostola rosea \nC) Chilobrachys sp. electric blue \nD) Tlitocatl albopilosum": {
+                "answer": [
+                    "c",
+                    "C)"
+                ],
+                "points": 40
+            },
+            "Čím se živí mravenci střihači rodů *Atta* a *Acromyrmex*? \nA) Hmyzem, jako ostatní mravenci \nB) Larvami ostatních mravenců, kteří napadají jejich houbu \nC) Listy a jinými částmi rostlin \nD) Nafouklými hyfami krmí larvy, dělnice sají mízu z listů": {
+                "answer": [
+                    "D)",
+                    "d"
+                ],
+                "points": 40
+            },
+            "Žije v ČR *Camponotus atricolor*? \nA) Ne \nB) Ano, ale zaměnuje se za C. piceus \nC) Výskyt nebyl potvrzen": {
+                "answer": [
+                    "b",
+                    "B)"
+                ],
+                "points": 40
+            },
+            "Jak se nazývá druh na obrázku? \nA) Camponotus japonicus \nB) Camponotus vagus \nC) Camponotus fallax \n[Obrázek](https://cdn.discordapp.com/attachments/791692102853066813/1064451856971087923/Screenshot_2023_0116_084948.jpg)": {
+                "answer": [
+                    "B",
+                    "b)"
+                ],
+                "points": 40
+            },
+            "Jak se nazývá vědecky tento mravenec latinsky? Napiš celé jméno i s poddruhem. [Obr1](https://www.lars-fehlandt.de/wp-content/uploads/2017/07/D5A5654-620x383.jpg) [Obr2](https://as2.ftcdn.net/v2/jpg/03/37/73/55/1000_F_337735571_pQ6k4q0bualD38N2LiEkamKfMWJYu3uZ.jpg) [Obr3](https://inaturalist-open-data.s3.amazonaws.com/photos/99312379/original.jpeg)": {
+                "answer": [
+                    "Dinomyrmex gigas borneensis"
+                ],
+                "points": 40
+            },
+            "Kterému druhu mravenců se říká \"Suicide ants\" a proč? \nA) *Colobopsis saundersi*, protože jsou schopni \"exploze\" a paralýzy nepřítele. \nB) *Camponotus explodens*, protože se obětují pro kolonii. \nC) *Formica sanguinea*, protože páchají hromadné sebevraždy. \nD) *Lasius niger*, protože se přemnožují a pak umírají.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 50
+            },
+            "Můžeme mravence krmit hmyzem z přírody? \nA) ne, hmyz z přírody může být pro mravence toxický \nB) ano, protože v přírodě to žerou taky \nC) Ano, ale měl by se sterilizovat. \nD) ano, ale mravencům nechutná": {
+                "answer": [
+                    "C",
+                    "C)"
+                ],
+                "points": 40
+            },
+            "Jaký je největší druh rodu *Camponotus*? (na fotce)\n https://cdn.discordapp.com/attachments/791692102853066813/1063915187842846830/IMG_20211211_112426_963.png": {
+                "answer": [
+                    "Camponotus angusticollis"
+                ],
+                "points": 50
+            },
+            "Co je to za mravence? \nA) Camponotus herculeanus \nB) Camponotus chinenchis \nC) Camponotus crispulus \nD) Ocellophylla smaragdina \nhttps://data.atomiyme.com/image/a21c8e0a7e850ed8.jpg": {
+                "answer": [
+                    "c",
+                    "c)"
+                ],
+                "points": 40
+            },
+            "Jak se nazývá specializovaná kasta dělnic, která slouží jako živá zásobárna potravy? (praví ... jsou jen u některých druhů)": {
+                "answer": [
+                    "replete",
+                    "replet"
+                ],
+                "points": 40
+            },
+            "Jaký je český překlad pro *Harpegnathos saltator*? (neoficiální)": {
+                "answer": [
+                    "mravenec skákavý"
+                ],
+                "points": 40
+            },
+            "Jaký je hlavní rozdíl mezi mravenci a termity? \nA) Mravenci jsou blanokřídlí, termiti jsou švábi. \nB) Mravenci mají žihadlo, termiti ne. \nC) Mravenci žijí v zemi, termiti ve dřevě. \nD) Mravenci jsou společenští, termiti žijí solitérně.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 40
+            },
+            "Jak často byste měli krmit královnu druhu *Ponera coarctata*? \na) 1x týdně \nb) 1x za dva týdny \nc) alespoň 3-4x týdně \nd) každý den dvakrát": {
+                "answer": [
+                    "c",
+                    "C)"
+                ],
+                "points": 50
+            },
+            "Jaký je hlavní význam feromonů v mravenčí kolonii?": {
+                "answer": [
+                    "komunikace"
+                ],
+                "points": 60
+            },
+            "Uveďte jeden typ feromonů u mravenců.": {
+                "answer": [
+                    "poplachové",
+                    "stopovací",
+                    "sexuální"
+                ],
+                "points": 60
+            },
+            "Jaký je rozdíl mezi monogynií a polygynií u mravenců? \nA) Monogynie: jedna královna; Polygynie: více královen. \nB) Monogynie: více královen; Polygynie: jedna královna. \nC) Monogynie: královna klade vajíčka; Polygynie: dělnice kladou vajíčka. \nD) Monogynie: kolonie bez královen; Polygynie: kolonie s královnami.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 50
+            },
+            "Jaký je správný životní cyklus mravence? \nA) Vajíčko, larva, dospělec \nB) Vajíčko, kukla, larva, dospělec \nC) Vajíčko, larva, kukla, dospělec \nD) Larva, vajíčko, kukla, dospělec": {
+                "answer": [
+                    "C"
+                ],
+                "points": 50
+            },
+            "K čemu slouží myrmekochorie v ekosystému?": {
+                "answer": [
+                    "šíření semen"
+                ],
+                "points": 60
+            },
+            "Jaký je hlavní účel rojení u mravenců?": {
+                "answer": [
+                    "rozmnožování"
+                ],
+                "points": 60
+            },
+            "Kdo opouští hnízdo během rojení u mravenců?": {
+                "answer": [
+                    "okřídlení jedinci",
+                    "samci a samice",
+                    "aláti"
+                ],
+                "points": 60
+            },
+            "Jaký je jeden ekologický význam mravenců v půdě?": {
+                "answer": [
+                    "provzdušňování",
+                    "rozklad",
+                    "šíření semen"
+                ],
+                "points": 60
+            },
+            "K čemu slouží trofické vajíčko v mravenčí kolonii? \nA) K rozmnožování \nB) Jako potrava \nC) K obraně \nD) K signalizaci": {
+                "answer": [
+                    "B"
+                ],
+                "points": 50
+            }
+        },
+        "těžká": {
+            "Který druh mravence je příkladem sociálního parazitismu (zneužívá jiný druh k výchově potomstva)? \nA) *Lasius niger* \nB) *Formica sanguinea* \nC) *Camponotus ligniperda* \nD) *Messor barbarus*": {
+                "answer": [
+                    "B"
+                ],
+                "points": 70
+            },
+            "Uveďte jeden příklad adaptace mravenců na extrémní prostředí.": {
+                "answer": [
+                    "diapauza",
+                    "hluboká hnízda",
+                    "chloupky"
+                ],
+                "points": 80
+            }
+        }
+    },
+    "hmyz": {
+        "lehká": {
+            "Jaké části má pavoučí tělo? Vyjmenuj:": {
+                "answer": [
+                    "Cephalothorax, abdomen",
+                    "hlavohruď, zadeček",
+                    "hlavohruď a zadeček",
+                    "cephalothorax a zadeček",
+                    "Cephalothorax a abdomen"
+                ],
+                "points": 30
+            },
+            "Jak velký je voják *Apicotermes aquileri*? \n https://d39-a.sdn.cz/d_39/c_img_QJ_q/D3xJN/termit-apicotermes-aquileri.jpeg?fl=cro,0,0,4480,4320%7Cres,1024,,1%7Cwebp,75": {
+                "answer": [
+                    "přes 1,5 cm",
+                    "1,5 cm+",
+                    "15 mm"
+                ],
+                "points": 30
+            },
+            "Na jakém webu najdeme Český vědecký tým zabývající se Termity? \n https://i1.rgstatic.net/ii/lab.file/AS%3A580522490253313%401515418755101_xl": {
+                "answer": [
+                    "termiti.czu.cz",
+                    "termiti.cz"
+                ],
+                "points": 30
+            },
+            "Jak se jmenuje nauka, věda o termitech?": {
+                "answer": [
+                    "Termitologie",
+                    "Termitolog"
+                ],
+                "points": 30
+            },
+            "Kolik nohou má hmyz?": {
+                "answer": [
+                    "šest",
+                    "6"
+                ],
+                "points": 10
+            },
+            "Jak se nazývá stadium vývoje hmyzu mezi larvou a dospělcem u hmyzu s proměnou dokonalou?": {
+                "answer": [
+                    "kukla"
+                ],
+                "points": 15
+            },
+            "Co je to exoskeleton?": {
+                "answer": [
+                    "vnější kostra hmyzu",
+                    "vnější kostra členovců"
+                ],
+                "points": 20
+            },
+            "Mají všichni brouci křídla? (Pravda/Nepravda)": {
+                "answer": [
+                    "nepravda",
+                    "ne"
+                ],
+                "points": 10
+            },
+            "Jak se nazývá proces, při kterém hmyz svléká starou kůži?": {
+                "answer": [
+                    "svlékání",
+                    "ekdyze"
+                ],
+                "points": 20
+            },
+            "Jaký je český název pro *Apis mellifera*?": {
+                "answer": [
+                    "včela medonosná"
+                ],
+                "points": 10
+            },
+            "Jak se nazývá věda zabývající se studiem hmyzu?": {
+                "answer": [
+                    "entomologie"
+                ],
+                "points": 20
+            },
+            "Který hmyz je známý pro svou schopnost bioluminiscence?": {
+                "answer": [
+                    "světluška"
+                ],
+                "points": 25
+            },
+            "Jaký je největší hmyz na světě? \nA) Včela medonosná \nB) Weta obrovská \nC) Komár \nD) Moucha domácí.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 25
+            },
+            "K čemu slouží sosák u motýlů? \nA) K dýchání \nB) K sání nektaru \nC) K obraně \nD) K chůzi.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 15
+            },
+            "Jak se nazývá proces, při kterém se larvy hmyzu živí a rostou? \nA) Metamorfóza \nB) Hibernace \nC) Ekdyze \nD) Krmení.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 25
+            }
+        },
+        "střední": {
+            "Kde se nachází světově první muzeum termitů? (je českého původu) \n https://termiti.czu.cz/cache/content-files/77814.JPG https://termiti.czu.cz/cache/content-files/77813.JPG": {
+                "answer": [
+                    "Ebogo II",
+                    "jižní Kamerun",
+                    "Ebogo"
+                ],
+                "points": 40
+            },
+            "Jak se nazývá typ mimikry, které projevuje skákavka mravenčí, *Myrmarachne formicaria*? \nhttp://www.arachnology.cz/pic/20151204/1449261080-obr-a-myrmarachne-formicaria-80410.jpg": {
+                "answer": [
+                    "Bátesovské",
+                    "Bátesiánské mimikry",
+                    "Bátesovské mimikry",
+                    "bátesiánské",
+                    "Batesovy",
+                    "bátesovy"
+                ],
+                "points": 60
+            },
+            "Jak se jmenuje typ mimikry, který užívají Vosy (*Vespula*)? Používání střídání černých, červených, žlutých, případně bílých pruhů, případně jiné vlastnosti, které mají odradit predátora od lovu potencionálně nebezpečné nebo nepoživatelné kořisti? ": {
+                "answer": [
+                    "Müllerovy",
+                    "Mullerovy",
+                    "Mullerovské",
+                    "Müllerovské",
+                    "Müllerovy mimikry",
+                    "Müllerovské mimikry"
+                ],
+                "points": 60
+            },
+            "Jaký jediný druh kudlanky se nachází v ČR?": {
+                "answer": [
+                    "Kudlanka nábožná",
+                    "Mantis religiosa",
+                    "Modlivka zelená"
+                ],
+                "points": 50
+            },
+            "Co je toto za zvíře?\nhttps://cdn.discordapp.com/attachments/791692102853066813/1064170768742748181/6466.jpg": {
+                "answer": [
+                    "Solifuga",
+                    "Galeodes graecus",
+                    "Solifuga egejská"
+                ],
+                "points": 40
+            },
+            "Jaký je hlavní rozdíl mezi proměnou dokonalou a nedokonalou u hmyzu? \nA) Dokonalá má kuklu, nedokonalá nymfu. \nB) Dokonalá má larvu, nedokonalá nemá. \nC) Dokonalá je rychlá, nedokonalá pomalá. \nD) Dokonalá je u brouků, nedokonalá u motýlů.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 40
+            },
+            "Jaký je hlavní rozdíl mezi motýly a můrami? \nA) Motýli jsou denní, můry noční; motýli mají kyjovitá tykadla, můry ne. \nB) Motýli jsou noční, můry denní; motýli mají rovná tykadla, můry kyjovitá. \nC) Motýli mají křídla, můry ne. \nD) Motýli žijí v suchu, můry ve vlhku.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 40
+            },
+            "Který hmyz používá stridulaci?": {
+                "answer": [
+                    "kobylky",
+                    "cvrčci"
+                ],
+                "points": 40
+            },
+            "Napiš vědecký název největšího brouka na světě": {
+                "answer": [
+                    "Titanus giganteus"
+                ],
+                "points": 45
+            },
+            "Co je to diapauza u hmyzu?": {
+                "answer": [
+                    "období klidu"
+                ],
+                "points": 40
+            },
+            "Proč dochází k diapauze u hmyzu?": {
+                "answer": [
+                    "přečkání zimy",
+                    "přečkání sucha"
+                ],
+                "points": 40
+            },
+            "Jaký je jeden význam termitů v ekosystému? \nA) Jsou hlavními opylovači. \nB) Jsou predátory velkých savců. \nC) Pomáhají s rozkladem dřeva a tvorbou půdy. \nD) Vyrábějí med.": {
+                "answer": [
+                    "C"
+                ],
+                "points": 40
+            },
+            "Co je to stridulace? \nA) Proces, při kterém hmyz klade vajíčka. \nB) Vydávání zvuků třením částí těla. \nC) Způsob, jakým hmyz létá. \nD) Typ mimikry.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 40
+            },
+            "Jaký je jeden význam opylovačů pro ekosystém? \nA) Způsobují erozi půdy. \nB) Pomáhají s rozmnožováním rostlin a produkcí plodů. \nC) Jsou škůdci plodin. \nD) Čistí vodu.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 40
+            },
+            "Jaké ústní ústrojí mají komáři? \nA) Kousací \nB) Lízací \nC) Bodavě sací \nD) Žvýkací.": {
+                "answer": [
+                    "C"
+                ],
+                "points": 40
+            }
+        },
+        "těžká": {}
+    },
+    "obecny": {
+        "lehká": {
+            "Jaký gekon se vyskytuje v Česku": {
+                "answer": [
+                    "Hemidactylus turcicus",
+                    "gekon turecký"
+                ],
+                "points": 30
+            },
+            "Jaký je latinský název sklípkana překrásného?": {
+                "answer": [
+                    "Grammostola pulchra",
+                    "G. pulchra"
+                ],
+                "points": 30
+            },
+            "Je pravda, že v ČR se přirozeně vyskytují sklípkani (Mygalomorphae)?": {
+                "answer": [
+                    "ano",
+                    "je",
+                    "pravda"
+                ],
+                "points": 20
+            },
+            "Jaký druh štíra je/byl přirozeně v ČR, a kde byl nalezen? \nA) Štír obrovský, poblíž Brna\nB) Štír kýlnatý, Slapská přehrada\nC) Štír karpatský, Bílé Karpaty": {
+                "answer": [
+                    "B",
+                    "B"
+                ],
+                "points": 30
+            },
+            "Jaký druh hada je v ČR nejjedovatější a též jediný jedovatý?": {
+                "answer": [
+                    "Zmije obecná",
+                    "Vretenica severná",
+                    "Vipera berus"
+                ],
+                "points": 30
+            },
+            "Kolik ušlechtěných druhů ryb je v ČR?": {
+                "answer": [
+                    "6",
+                    "šest"
+                ],
+                "points": 20
+            },
+            "Proč můžeme ve vodách ČR najít želvu nádhernou? \nA) je původní \nB) dostala se sem z okolních států C) nezodpovědní lidé je záměrně vypouštějí proti zákonu \nD) dostaly se sem na lodích": {
+                "answer": [
+                    "c",
+                    "C)"
+                ],
+                "points": 30
+            },
+            "Svléká agama vousatá celou kůži dohromady?": {
+                "answer": [
+                    "ne",
+                    "lež",
+                    "nepravda"
+                ],
+                "points": 20
+            },
+            "Jak se nazývá v angličtině užovka červená (*Pantherophis guttatus*)?": {
+                "answer": [
+                    "corn snake",
+                    "Corn Snake",
+                    "Corn snake"
+                ],
+                "points": 20
+            },
+            "Jak se nazývá největší kočkovitá šelma na světě?": {
+                "answer": [
+                    "tygr"
+                ],
+                "points": 15
+            },
+            "Který savec je známý svou schopností echolokace?": {
+                "answer": [
+                    "netopýr"
+                ],
+                "points": 20
+            },
+            "Jak se nazývá nejrychlejší suchozemské zvíře?": {
+                "answer": [
+                    "gepard"
+                ],
+                "points": 15
+            },
+            "Jaký je největší oceán na Zemi?": {
+                "answer": [
+                    "Tichý oceán"
+                ],
+                "points": 10
+            },
+            "Který pták je symbolem míru?": {
+                "answer": [
+                    "holubice"
+                ],
+                "points": 10
+            },
+            "Jak se nazývá největší žijící plaz?": {
+                "answer": [
+                    "krokodýl mořský"
+                ],
+                "points": 25
+            },
+            "Co je to fotosyntéza? \nA) Proces, při kterém rostliny dýchají. \nB) Proces, při kterém rostliny vytvářejí potravu. \nC) Proces, při kterém rostliny přijímají vodu. \nD) Proces, při kterém rostliny rostou.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 20
+            },
+            "Žijí v současnosti dinosauři?": {
+                "answer": [
+                    "ano",
+                    "pravda"
+                ],
+                "points": 10
+            },
+            "Jak se nazývá nejvyšší hora světa?": {
+                "answer": [
+                    "Mount Everest"
+                ],
+                "points": 10
+            },
+            "Která planeta je nejblíže Slunci?": {
+                "answer": [
+                    "Merkur"
+                ],
+                "points": 10
+            },
+            "Jak se nazývá největší písečná poušť na světě?": {
+                "answer": [
+                    "Sahara"
+                ],
+                "points": 15
+            },
+            "Název největšího objeveného sklípkana na světě": {
+                "answer": [
+                    "Theraphosa blondi",
+                    "T. blondi",
+                    "sklípkan největší"
+                ],
+                "points": 30
+            },
+            "Jaký je hlavní rozdíl mezi dravcem a mrchožroutem? \nA) Dravec loví živou kořist, mrchožrout se živí mrtvou. \nB) Dravec je velký, mrchožrout malý. \nC) Dravec žije v horách, mrchožrout v poušti. \nD) Dravec je savec, mrchožrout pták.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 30
+            },
+            "Jaký je největší suchozemský savec?": {
+                "answer": [
+                    "slon africký"
+                ],
+                "points": 25
+            },
+            "Na co má křeček ústní vaky? \nA) K dýchání pod vodou \nB) K ukládání potravy \nC) K obraně před predátory \nD) K výrobě zvuků.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 15
+            }
+        },
+        "střední": {
+            "K čemu se na letišti používají sokolové?": {
+                "answer": [
+                    "lov holubů",
+                    "k lovu holubů"
+                ],
+                "points": 40
+            },
+            "Kolik druhů hadů je v ČR? a) 10 b) 2 c) 7 d) 5": {
+                "answer": [
+                    "d",
+                    "D)"
+                ],
+                "points": 40
+            },
+            "Kolik druhů užovek žije v ČR? \na) 3: užovka obojková, hladká, stromová \nb) 2: užovka obojková, hladká \nc) 1: užovka obojková \nd) 4: užovka obojková, hladká, podplamatá, stromová": {
+                "answer": [
+                    "4",
+                    "d",
+                    "D)"
+                ],
+                "points": 40
+            },
+            "Proč vranka obecná nemůže plavat, který orgán postrádá? \n https://www.najdirevir.cz/media/large/upload/fish/6225cc1d8b07e131386206.jpg": {
+                "answer": [
+                    "plynový měchýř"
+                ],
+                "points": 40
+            },
+            "Od kdy do kdy se nesmí chytat dravé ryby v ČR? \na) od 1.1 do 16.6 \nb) od 30.11 do 28.2 \nc) od 24.12 do 30.8 \nd) od 1.1 do 16.7": {
+                "answer": [
+                    "a",
+                    "a]"
+                ],
+                "points": 40
+            },
+            "Je koljuška tříostná původní ryba v ČR? \na)Není, byla sem zavlečena akvaristy na počátku 20. století \nb) Ano je, je to příbuzné kaprovi \nc) připlavala sem z moře \nd) je to endemický druh na Šumavě \nhttps://www.najdirevir.cz/media/large/upload/fish/6225c874c26ca542841330.jpg": {
+                "answer": [
+                    "a",
+                    "A)"
+                ],
+                "points": 40
+            },
+            "Jak se nazývá největší vnitrozemské moře na světě?": {
+                "answer": [
+                    "Kaspické moře"
+                ],
+                "points": 40
+            },
+            "Co je to ekosystém? \nA) Společenství pouze rostlin. \nB) Společenství organismů a jejich neživé prostředí. \nC) Místo, kde žijí zvířata. \nD) Pouze neživé prostředí.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 40
+            },
+            "Jak se nazývá proces, při kterém rostliny uvolňují vodu do atmosféry?": {
+                "answer": [
+                    "transpirace"
+                ],
+                "points": 40
+            },
+            "Co je to biodiverzita?": {
+                "answer": [
+                    "rozmanitost života"
+                ],
+                "points": 40
+            },
+            "Poblíž kterého města se našla fosilie *Dolichoderus kutschlinicus*?": {
+                "answer": [
+                    "Bílina",
+                    "Bilina"
+                ],
+                "points": 60
+            },
+            "Jaký druh mravence je považován za nejmenšího na světě?": {
+                "answer": [
+                    "Carebara atoma"
+                ],
+                "points": 50
+            },
+            "Jaký je hlavní rozdíl mezi invazním a původním druhem? \nA) Invazní je nepůvodní a škodí, původní je přirozený. \nB) Invazní je velký, původní malý. \nC) Invazní žije v moři, původní na souši. \nD) Invazní je chráněný, původní není.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 60
+            },
+            "Jaký je jeden význam recyklace pro životní prostředí?": {
+                "answer": [
+                    "snižuje odpad",
+                    "šetří suroviny",
+                    "šetří energii"
+                ],
+                "points": 50
+            },
+            "Jaký je správný proces metamorfózy u žab? \nA) Vajíčko, dospělá žába, pulec \nB) Vajíčko, pulec, dospělá žába \nC) Pulec, vajíčko, dospělá žába \nD) Dospělá žába, pulec, vajíčko.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 40
+            },
+            "Co je to symbióza? \nA) Vztah, kdy jeden organismus škodí druhému. \nB) Vzájemně prospěšný vztah mezi dvěma různými organismy. \nC) Vztah, kdy jeden organismus loví druhého. \nD) Vztah, kdy organismus žije sám.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 45
+            },
+            "Jaký je význam ozónové vrstvy pro život na Zemi? \nA) Způsobuje globální oteplování. \nB) Chrání Zemi před škodlivým UV zářením. \nC) Pomáhá rostlinám růst. \nD) Způsobuje déšť.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 40
+            },
+            "Proč je biodiverzita důležitá? \nA) Zajišťuje stabilitu ekosystémů a jejich odolnost. \nB) Způsobuje znečištění. \nC) Snižuje množství kyslíku v atmosféře. \nD) Zpomaluje ekonomický růst.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 40
+            },
+            "Jaký je hlavní rozdíl mezi obnovitelnými a neobnovitelnými zdroji energie? \nA) Obnovitelné se doplňují, neobnovitelné ne. \nB) Obnovitelné jsou drahé, neobnovitelné levné. \nC) Obnovitelné jsou v ČR, neobnovitelné v zahraničí. \nD) Obnovitelné jsou kapalné, neobnovitelné plynné.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 60
+            }
+        },
+        "těžká": {
+            "Kde v česku byla nalezena fosilie mravence *Odontomachus paleomyagra*? \nA) V okolí Brna \nB) V okolí Ostravy \nC) V okolí Mostu \nD) V okolí Prahy.": {
+                "answer": [
+                    "C"
+                ],
+                "points": 80
+            },
+            "Co je to trofická úroveň v ekosystému? \nA) Místo organismu v potravním řetězci. \nB) Počet druhů v ekosystému. \nC) Množství energie v ekosystému. \nD) Velikost organismu v ekosystému.": {
+                "answer": [
+                    "A"
+                ],
+                "points": 70
+            },
+            "Co je to uhlíkový cyklus? \nA) Koloběh vody v přírodě. \nB) Koloběh kyslíku v atmosféře. \nC) Koloběh uhlíku v přírodě. \nD) Koloběh dusíku v půdě.": {
+                "answer": [
+                    "C"
+                ],
+                "points": 80
+            },
+            "Co je to biologická diverzita? \nA) Různorodost hornin. \nB) Rozmanitost života na Zemi. \nC) Počet planet. \nD) Množství vody.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 70
+            },
+            "Co je hlavní příčinou globálního oteplování? \nA) Zvýšení sopečné aktivity. \nB) Zvýšení skleníkových plynů. \nC) Snížení sluneční aktivity. \nD) Změna oběžné dráhy Země.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 80
+            },
+            "Co znamená pojem „udržitelný rozvoj“? \nA) Rychlý ekonomický růst za každou cenu. \nB) Rozvoj, který nebere ohled na budoucí generace. \nC) Rozvoj, který uspokojuje potřeby současnosti bez ohrožení budoucích generací. \nD) Rozvoj zaměřený pouze na ochranu přírody.": {
+                "answer": [
+                    "C"
+                ],
+                "points": 70
+            },
+            "Co je to desertifikace? \nA) Rozšiřování lesů. \nB) Rozšiřování pouští. \nC) Zvyšování biodiverzity. \nD) Změna klimatu.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 70
+            },
+            "Která fosilie mravence se našla poblíž Děčína? \nA) *Formica praeglacialis* \nB) *Camponotus novotnyi* \nC) *Lasius vetulus* \nD) *Messor eocenicus*.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 70
+            },
+            "Jaký je jeden význam mokřadů v ekosystému? \nA) Jsou zdrojem sucha. \nB) Pomáhají s filtrací a zadržováním vody. \nC) Způsobují erozi půdy. \nD) Jsou místem pro těžbu uhlí.": {
+                "answer": [
+                    "B"
+                ],
+                "points": 70
+            }
+        }
+    }
+}

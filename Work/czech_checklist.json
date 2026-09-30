@@ -1,0 +1,567 @@
+{
+    "Tetramorium atratulum": {
+        "author": "Schenck",
+        "year": "1852",
+        "author_year_full": "(Schenck, 1852)"
+    },
+    "Aphaenogaster subterranea": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+    "Bothriomyrmex communista": {
+        "author": "Santschi",
+        "year": "1919",
+        "author_year_full": "Santschi, 1919"
+    },
+    "Bothriomyrmex corsicus": {
+        "author": "Santschi",
+        "year": "1923",
+        "author_year_full": "Santschi, 1923"
+    },
+    "Camponotus aethiops": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+    "Camponotus atricolor": {
+        "author": "Nylander",
+        "year": "1849",
+        "author_year_full": "(Nylander, 1849)"
+    },
+    "Camponotus fallax": {
+        "author": "Nylander",
+        "year": "1856",
+        "author_year_full": "(Nylander, 1856)"
+    },
+    "Camponotus herculeanus": {
+        "author": "Linnaeus",
+        "year": "1758",
+        "author_year_full": "(Linnaeus, 1758)"
+    },
+    "Camponotus ligniperda": {
+        "author": "Latreille",
+        "year": "1802",
+        "author_year_full": "(Latreille, 1802)"
+    },
+    "Camponotus piceus": {
+        "author": "Leach",
+        "year": "1825",
+        "author_year_full": "(Leach, 1825)"
+    },
+    "Camponotus vagus": {
+        "author": "Scopoli",
+        "year": "1763",
+        "author_year_full": "(Scopoli, 1763)"
+    },
+    "Colobopsis truncata": {
+        "author": "Spinola",
+        "year": "1808",
+        "author_year_full": "(Spinola, 1808)"
+    },
+    "Dolichoderus quadripunctatus": {
+        "author": "Linnaeus",
+        "year": "1771",
+        "author_year_full": "(Linnaeus, 1771)"
+    },
+    "Formica aquilonia": {
+        "author": "Yarrow",
+        "year": "1955",
+        "author_year_full": "Yarrow, 1955"
+    },
+    "Formica bruni": {
+        "author": "Kutter",
+        "year": "1967",
+        "author_year_full": "Kutter, 1967"
+    },
+    "Formica cinerea": {
+        "author": "Mayr",
+        "year": "1853",
+        "author_year_full": "Mayr, 1853"
+    },
+    "Formica clara": {
+        "author": "Forel",
+        "year": "1886",
+        "author_year_full": "Forel, 1886"
+    },
+    "Formica cunicularia": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "Latreille, 1798"
+    },
+    "Formica exsecta": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "Nylander, 1846"
+    },
+    "Formica foreli": {
+        "author": "Bondroit",
+        "year": "1918",
+        "author_year_full": "Bondroit, 1918"
+    },
+    "Formica fusca": {
+        "author": "Linnaeus",
+        "year": "1758",
+        "author_year_full": "Linnaeus, 1758"
+    },
+    "Formica gagates": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "Latreille, 1798"
+    },
+    "Formica lemani": {
+        "author": "Bondroit",
+        "year": "1917",
+        "author_year_full": "Bondroit, 1917"
+    },
+    "Formica lugubris": {
+        "author": "Zetterstedt",
+        "year": "1838",
+        "author_year_full": "Zetterstedt, 1838"
+    },
+    "Formica picea": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "Nylander, 1846"
+    },
+    "Formica polyctena": {
+        "author": "Foerster",
+        "year": "1850",
+        "author_year_full": "Foerster, 1850"
+    },
+    "Formica pratensis": {
+        "author": "Retzius",
+        "year": "1783",
+        "author_year_full": "Retzius, 1783"
+    },
+    "Formica pressilabris": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "Nylander, 1846"
+    },
+    "Formica rufa": {
+        "author": "Linnaeus",
+        "year": "1761",
+        "author_year_full": "Linnaeus, 1761"
+    },
+    "Formica rufibarbis": {
+        "author": "Fabricius",
+        "year": "1793",
+        "author_year_full": "Fabricius, 1793"
+    },
+    "Formica sanguinea": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "Latreille, 1798"
+    },
+    "Formica truncorum": {
+        "author": "Fabricius",
+        "year": "1804",
+        "author_year_full": "Fabricius, 1804"
+    },
+    "Formicoxenus nitidulus": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "(Nylander, 1846)"
+    },
+    "Harpagoxenus sublaevis": {
+        "author": "Nylander",
+        "year": "1849",
+        "author_year_full": "(Nylander, 1849)"
+    },
+    "Hypoponera punctatissima": {
+        "author": "Roger",
+        "year": "1859",
+        "author_year_full": "(Roger, 1859)"
+    },
+    "Lasius alienus": {
+        "author": "Foerster",
+        "year": "1850",
+        "author_year_full": "(Foerster, 1850)"
+    },
+    "Lasius austriacus": {
+        "author": "Schlick-Steiner, Steiner, Schödl et Seifert",
+        "year": "2003",
+        "author_year_full": "Schlick-Steiner, Steiner, Schödl et Seifert, 2003"
+    },
+    "Lasius bicornis": {
+        "author": "Foerster",
+        "year": "1850",
+        "author_year_full": "(Foerster, 1850)"
+    },
+    "Lasius brunneus": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+    "Lasius carniolicus": {
+        "author": "Mayr",
+        "year": "1861",
+        "author_year_full": "Mayr, 1861"
+    },
+    "Lasius citrinus": {
+        "author": "Emery",
+        "year": "1922",
+        "author_year_full": "Emery, 1922"
+    },
+    "Lasius distinguendus": {
+        "author": "Emery",
+        "year": "1916",
+        "author_year_full": "(Emery, 1916)"
+    },
+    "Lasius emarginatus": {
+        "author": "Olivier",
+        "year": "1792",
+        "author_year_full": "(Olivier, 1792)"
+    },
+    "Lasius flavus": {
+        "author": "Fabricius",
+        "year": "1782",
+        "author_year_full": "(Fabricius, 1782)"
+    },
+    "Lasius fuliginosus": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+    "Lasius jensi": {
+        "author": "Seifert",
+        "year": "1982",
+        "author_year_full": "Seifert, 1982"
+    },
+    "Lasius meridionalis": {
+        "author": "Bondroit",
+        "year": "1920",
+        "author_year_full": "(Bondroit, 1920)"
+    },
+    "Lasius mixtus": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "(Nylander, 1846)"
+    },
+    "Lasius myops": {
+        "author": "Forel",
+        "year": "1894",
+        "author_year_full": "Forel, 1894"
+    },
+    "Lasius niger": {
+        "author": "Linnaeus",
+        "year": "1758",
+        "author_year_full": "(Linnaeus, 1758)"
+    },
+    "Lasius nitidigaster": {
+        "author": "Seifert",
+        "year": "1996",
+        "author_year_full": "Seifert, 1996"
+    },
+    "Lasius paralienus": {
+        "author": "Seifert",
+        "year": "1992",
+        "author_year_full": "Seifert, 1992"
+    },
+    "Lasius platythorax": {
+        "author": "Seifert",
+        "year": "1991",
+        "author_year_full": "Seifert, 1991"
+    },
+    "Lasius psammophilus": {
+        "author": "Seifert",
+        "year": "1992",
+        "author_year_full": "Seifert, 1992"
+    },
+    "Lasius reginae": {
+        "author": "Faber",
+        "year": "1967",
+        "author_year_full": "Faber, 1967"
+    },
+    "Lasius sabularum": {
+        "author": "Bondroit",
+        "year": "1918",
+        "author_year_full": "(Bondroit, 1918)"
+    },
+    "Lasius umbratus": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "(Nylander, 1846)"
+    },
+    "Leptothorax acervorum": {
+        "author": "Fabricius",
+        "year": "1793",
+        "author_year_full": "(Fabricius, 1793)"
+    },
+    "Leptothorax gredleri": {
+        "author": "Mayr",
+        "year": "1855",
+        "author_year_full": "Mayr, 1855"
+    },
+    "Leptothorax muscorum": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "(Nylander, 1846)"
+    },
+    "Liometopum microcephalum": {
+        "author": "Panzer",
+        "year": "1798",
+        "author_year_full": "(Panzer, 1798)"
+    },
+    "Manica rubida": {
+        "author": "Latreille",
+        "year": "1802",
+        "author_year_full": "(Latreille, 1802)"
+    },
+    "Messor structor": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+    "Myrmecina graminicola": {
+        "author": "Latreille",
+        "year": "1802",
+        "author_year_full": "(Latreille, 1802)"
+    },
+    "Myrmica curvithorax": {
+        "author": "Bondroit",
+        "year": "1920",
+        "author_year_full": "Bondroit, 1920"
+    },
+    "Myrmica deplanata": {
+        "author": "Emery",
+        "year": "1921",
+        "author_year_full": "Emery, 1921"
+    },
+    "Myrmica gallienii": {
+        "author": "Bondroit",
+        "year": "1920",
+        "author_year_full": "Bondroit, 1920"
+    },
+    "Myrmica hirsuta": {
+        "author": "Elmes",
+        "year": "1978",
+        "author_year_full": "Elmes, 1978"
+    },
+    "Myrmica karavajevi": {
+        "author": "Arnoldi",
+        "year": "1930",
+        "author_year_full": "(Arnoldi, 1930)"
+    },
+    "Myrmica lobicornis": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "Nylander, 1846"
+    },
+    "Myrmica lonae": {
+        "author": "Finzi",
+        "year": "1926",
+        "author_year_full": "Finzi, 1926"
+    },
+    "Myrmica rubra": {
+        "author": "Linnaeus",
+        "year": "1758",
+        "author_year_full": "(Linnaeus, 1758)"
+    },
+    "Myrmica ruginodis": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "Nylander, 1846"
+    },
+    "Myrmica rugulosa": {
+        "author": "Nylander",
+        "year": "1849",
+        "author_year_full": "Nylander, 1849"
+    },
+    "Myrmica sabuleti": {
+        "author": "Meinert",
+        "year": "1861",
+        "author_year_full": "Meinert, 1861"
+    },
+    "Myrmica scabrinodis": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "Nylander, 1846"
+    },
+    "Myrmica schencki": {
+        "author": "Viereck",
+        "year": "1903",
+        "author_year_full": "Viereck, 1903"
+    },
+    "Myrmica specioides": {
+        "author": "Bondroit",
+        "year": "1918",
+        "author_year_full": "Bondroit, 1918"
+    },
+    "Myrmica sulcinodis": {
+        "author": "Nylander",
+        "year": "1846",
+        "author_year_full": "Nylander, 1846"
+    },
+    "Myrmica vandeli": {
+        "author": "Bondroit",
+        "year": "1920",
+        "author_year_full": "Bondroit, 1920"
+    },
+    "Myrmoxenus ravouxi": {
+        "author": "André",
+        "year": "1896",
+        "author_year_full": "(André, 1896)"
+    },
+    "Plagiolepis pygmaea": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+    "Plagiolepis taurica": {
+        "author": "Santschi",
+        "year": "1920",
+        "author_year_full": "Santschi, 1920"
+    },
+    "Plagiolepis xene": {
+        "author": "Stärcke",
+        "year": "1936",
+        "author_year_full": "Stärcke, 1936"
+    },
+    "Polyergus rufescens": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+    "Ponera coarctata": {
+        "author": "Latreille",
+        "year": "1802",
+        "author_year_full": "(Latreille, 1802)"
+    },
+    "Ponera testacea": {
+        "author": "Emery",
+        "year": "1895",
+        "author_year_full": "Emery, 1895"
+    },
+    "Proceratium melinum": {
+        "author": "Roger",
+        "year": "1860",
+        "author_year_full": "(Roger, 1860)"
+    },
+    "Solenopsis fugax": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+    "Stenamma debile": {
+        "author": "Foerster",
+        "year": "1850",
+        "author_year_full": "(Foerster, 1850)"
+    },
+    "Strongylognathus kratochvili": {
+        "author": "Šilhavý",
+        "year": "1937",
+        "author_year_full": "Šilhavý, 1937"
+    },
+    "Strongylognathus testaceus": {
+        "author": "Schenck",
+        "year": "1852",
+        "author_year_full": "(Schenck, 1852)"
+    },
+    "Tapinoma erraticum": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+    "Tapinoma subboreale": {
+        "author": "Seifert",
+        "year": "2012",
+        "author_year_full": "Seifert, 2012"
+    },
+    "Temnothorax affinis": {
+        "author": "Mayr",
+        "year": "1855",
+        "author_year_full": "(Mayr, 1855)"
+    },
+    "Temnothorax clypeatus": {
+        "author": "Mayr",
+        "year": "1853",
+        "author_year_full": "(Mayr, 1853)"
+    },
+    "Temnothorax corticalis": {
+        "author": "Schenck",
+        "year": "1852",
+        "author_year_full": "(Schenck, 1852)"
+    },
+    "Temnothorax crassispinus": {
+        "author": "Karavaiev",
+        "year": "1926",
+        "author_year_full": "(Karavaiev, 1926)"
+    },
+    "Temnothorax interruptus": {
+        "author": "Schenck",
+        "year": "1852",
+        "author_year_full": "(Schenck, 1852)"
+    },
+    "Temnothorax jailensis": {
+        "author": "Arnoldi",
+        "year": "1977",
+        "author_year_full": "(Arnoldi, 1977)"
+    },
+    "Temnothorax nigriceps": {
+        "author": "Mayr",
+        "year": "1855",
+        "author_year_full": "(Mayr, 1855)"
+    },
+    "Temnothorax parvulus": {
+        "author": "Schenck",
+        "year": "1852",
+        "author_year_full": "(Schenck, 1852)"
+    },
+    "Temnothorax saxonicus": {
+        "author": "Seifert",
+        "year": "1995",
+        "author_year_full": "(Seifert, 1995)"
+    },
+    "Temnothorax tuberum": {
+        "author": "Fabricius",
+        "year": "1775",
+        "author_year_full": "(Fabricius, 1775)"
+    },
+    "Temnothorax unifasciatus": {
+        "author": "Latreille",
+        "year": "1798",
+        "author_year_full": "(Latreille, 1798)"
+    },
+        "Temnothorax nadigi": {
+        "author": "Kutter",
+        "year": "1925",
+        "author_year_full": "(Kutter, 1925)"
+    },
+    "Tetramorium caespitum": {
+        "author": "Linnaeus",
+        "year": "1758",
+        "author_year_full": "(Linnaeus, 1758)"
+    },
+    "Tetramorium ferox": {
+        "author": "Ruzsky",
+        "year": "1903",
+        "author_year_full": "Ruzsky, 1903"
+    },
+    "Tetramorium hungaricum": {
+        "author": "Röszler",
+        "year": "1935",
+        "author_year_full": "Röszler, 1935"
+    },
+    "Tetramorium immigrans": {
+        "author": "Santschi",
+        "year": "1927",
+        "author_year_full": "Santschi, 1927"
+    },
+    "Tetramorium impurum": {
+        "author": "Foerster",
+        "year": "1850",
+        "author_year_full": "(Foerster, 1850)"
+    },
+    "Tetramorium moravicum": {
+        "author": "Kratochvíl",
+        "year": "1941",
+        "author_year_full": "Kratochvíl, 1941"
+    },
+    "Tetramorium staerckei": {
+        "author": "Kratochvíl",
+        "year": "1944",
+        "author_year_full": "Kratochvíl, 1944"
+    }
+}

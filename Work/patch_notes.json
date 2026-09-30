@@ -1,0 +1,435 @@
+[
+	{
+    "version": "2.6.0",
+    "date": "2026-04-29",
+    "changes": [
+        "Kontrola nových druhů v seznamu: Přidáno automatické upozornění do mod-chatu. Pokud si někdo přidá do `/seznam` mravence, kterého zatím nikdo na serveru nemá, moderátoři dostanou upozornění ke kontrole správnosti zadaného druhu."
+    ],
+    "image_url": "https://i.imgur.com/vEs5pcZ.jpeg"
+	},
+    {
+        "version": "2.5.0",
+        "date": "2026-04-25",
+        "changes":  [
+            "Vylepšení inzerce: Skener inzertního chatu nyní dokáže odhalit nejen wishlisty, ale i hledané položky (z /inzerce hledam).",
+            "Čistší vzhled: V patičce inzerátu se už neukazuje rušivé UserID. Odpovědi jsou přesměrovány přímo přes interní databázi.",
+            "Možnost notifikací u poptávek: Při zadání inzerátu typu HLEDÁM si uživatel může vybrat, zda ho má bot upozornit přes DM (Soukromá zpráva) nebo veřejně,jakmile se objeví odpovídající prodej.",
+            "Přepracované /wishlist notifikace: Místo prostého vypínání/zapínání nyní příkaz zobrazí interaktivní menu.",
+            "Možnost diskrétních upozornění: Uživatele upozorněni na shodu s jejich wishlistem (nebo inzerátem HLEDÁM) nyní můžeme pingnout veřejně, nebo soukromě do DM na základě jejich nastavení v menu.",
+            "Fallback zpráv: Pokud se u soukromé zprávy (DM) upozornění nepodaří doručit (kvůli blokaci DM od neznámých uživatelů), upozornění se jako záchranná brzda doručí veřejně, aby o něj uživatel nepřišel."
+        ],
+        "image_url": "https://i.imgur.com/DdmgWyp.jpeg"
+    }, 
+    {
+        "version": "2.4.0",
+        "date": "2026-04-20",
+        "changes": [
+            "Přejmenování příkazu inzerce: Původní /inzerce pridat bylo přejmenováno na srozumitelnější /inzerce prodam.",
+            "Nové poptávky: Přidán zbrusu nový příkaz /inzerce hledam pro uživatele, kteří chtějí zveřejnit poptávku na koupi.",
+            "Odpovědní tlačítko u inzerátů: Pod každým inzerátem a poptávkou se nyní nachází interaktivní tlačítko 'Odpovědět na inzerát'. Kliknutím lze poslat soukromou zprávu autorovi aniž byste museli hledat jeho profil v seznamu uživatelů.",
+            "Chytré propojování inzerátů: Pokud přidáte nabídku (/inzerce prodam), bot automaticky vyhledá aktivní poptávky na daný druh a upozorní jejich autory.",
+            "Rychlý přehled nabídek: Při vytvoření poptávky (/inzerce hledam) vám bot ihned soukromě zašle odkazy na existující nabídky, které odpovídají vašemu hledání."
+        ],
+        "image_url": "https://i.imgur.com/tTzlhF8.png"
+    },    
+    {
+        "version": "2.3.0",
+        "date": "2026-03-13",
+        "changes": [
+            "Aktualizace ranního Brainrotu: Byla odebrána sekce Urban Dictionary, protože občas vracela nevhodný obsah.",
+            "Nové sekce v Brainrotu: Přidáno generování náhodného memu z 'Know Your Meme' a dnešního 'Zbytečného faktu' (Useless Facts API).",
+            "Úprava komentářů a struktury: V kódu startupu byly zaktualizovány importy a dokumentace pro nové datové zdroje."
+        ],
+        "image_url": "https://i.imgur.com/D4yxgkf.png"
+    },
+    {
+    "version": "2.2.0",
+    "date": "2026-02-25",
+    "changes": [
+"Vylepšení příkazu /chov: Byla opravena chyba u výpisu polymorfismu dělnic, která způsobovala nesprávné zobrazení hodnoty 'Ne' i v případě, že údaj na webu chyběl nebo byl zapsán v jiném tvaru.",
+        "Nový odkaz v /chov: Byl přidán odkaz na Global Biodiversity Information Facility (GBIF). Ten se generuje dynamicky pomocí GBIF API přímo podle konkrétního druhu mravence.",
+        "Náhrada zdroje Čeština 2.0: Kvůli dlouhodobé nedostupnosti webu byl tento zdroj v ranní Brainrot dávce nahrazen za 'Článek týdne' z české Wikipedie.",
+        "Náhrada Know Your Meme: Pro lepší spolehlivost jsme přešli na RSS feed populárního YouTube kanálu Lessons in Meme Culture. Embed nyní rovnou zobrazuje náhled nejnovějšího videa.",
+        "Automatické plánování: Ranní dávka Brainrotu se nyní neposílá hned při restartu/spuštění bota, ale inteligentně vyčkává na přesně 7:00 ráno našeho času.",
+        "Implementace discord.ext.tasks: Přepracováno volání embedu do asynchronní smyčky pro lepší stabilitu a výkon bota na hostingu."
+    ],
+    "image_url": "https://i.imgur.com/iYRGDUX.jpeg"
+	},
+	{
+"version": "2.1.1",
+"date": "2026-02-17",
+"changes": [
+"Nový příkaz /statistiky zobrazit: Umožňuje zobrazit detailní osobní statistiky pro konkrétního uživatele.",
+"Žebříčky v osobních statistikách: Uživatel nyní vidí své pořadí na serveru v počtu kolonií a počtu chovaných druhů.",
+"Grafy v osobních statistikách: Generování sloupcového grafu pro Top 10 druhů daného uživatele.",
+"Extra statistiky: Přidáno zobrazení oblíbeného rodu (rodu s nejvíce druhy v seznamu) a procentuální podíl uživatele na celkovém počtu mravenců na serveru."
+],
+"image_url": "https://i.imgur.com/1AUQvjE.jpeg"
+	},
+    {
+"version": "2.1.0",
+"date": "2026-02-16",
+"changes": [
+"Vylepšení detekce inzerátů: Bot nyní rozpoznává i slovenská klíčová slova (ponúkam, predám) při skenování chatu.",
+"Nový příkaz /wishlist notifikace: Uživatelé si nyní mohou sami zapnout nebo vypnout upozornění na shodu inzerátu s jejich wishlistem.",
+"Optimalizace: Úprava logiky inzerce pro respektování uživatelského nastavení notifikací.",
+"Uzamčený wishlist se nyní zobrazí pouze jeho majiteli."
+],
+"image_url": "https://blog.webareal.cz/wp-content/uploads/2025/06/ChatGPT-Image-30.-6.-2025-13_12_23-1.png"
+	},
+    {
+    "version": "2.0.0",
+    "date": "2026-02-16",
+    "changes": [
+        "Velký upgrade na verzi 2.0.0! FormiBot byl úspěšně migrován na placený hosting Wispbyte.",
+        "Nový hosting poskytuje stabilnější prostředí s 99% uptime a 1GB RAM.",
+        "Aktuální latence se pohybuje mezi 120-150 ms. V budoucnu je možné upgradovat na tarif s nižší latencí a vyšší RAM, pokud to bude potřeba."
+    ],
+    "image_url": "https://i.imgur.com/asL5Rty.jpeg"
+	},
+    {
+    "version": "1.26.0",
+    "date": "2026-02-10",
+    "changes": [
+        "Přidán příkaz /chov: Nový komplexní příkaz pro zobrazení informací o chovu mravenců.",
+        "Integrace Antkeeping.info: Bot nyní automaticky stahuje data o teplotě, vlhkosti a rojení (včetně grafu) z externího webu.",
+        "Vylepšené odkazy: Příkaz generuje dynamické odkazy na AntMaps, AntWiki, AntWeb a kontroluje výskyt druhu v ČR dle nového czech_checklist.json."
+    ],
+    "image_url": "https://i.imgur.com/aaZKhcC.jpeg"
+	},
+    {
+    "version": "1.25.0",
+    "date": "2026-02-07",
+    "changes": [
+        "Skenování inzertního kanálu: Bot nyní automaticky kontroluje zprávy v kanálu inzerce.",
+        "Automatické upozornění na wishlist: Pokud někdo v inzertním kanálu napíše, že prodává druh, který máte ve wishlistu (např. 'Prodám Lasius niger'), bot vás automaticky upozorní.",
+        "Filtrování poptávek: Skenování ignoruje zprávy obsahující slova jako 'koupím' nebo 'sháním', aby se předešlo falešným upozorněním."
+    ],
+    "image_url": "https://i.imgur.com/0zw0aQS.jpeg"
+	},
+    {
+    "version": "1.24.0",
+    "date": "2026-02-04",
+    "changes": [
+        "Přidán příkaz /inzerce smazat: Umožňuje autorům smazat vlastní inzeráty před vypršením lhůty.",
+        "Moderátorská práva pro inzerci: Uživatelé s rolemi Samec, Královna a Antkeeper mohou mazat libovolné inzeráty.",
+        "Oprava čistoty databáze: Pokud byl inzerát smazán ručně, příkaz /inzerce smazat nyní správně odstraní i jeho 'sirotčí' záznam z databáze.",
+		"Změněn footer a přidán ID inzerátu."
+    ],
+    "image_url": "https://i.imgur.com/NoDhbLB.jpeg"
+	},
+    {
+    "version": "1.23.0",
+    "date": "2026-02-03",
+    "changes": [
+        "Propojení Inzerce a Wishlistu: Při vytvoření inzerátu na mravence se nyní automaticky zkontrolují wishlisty uživatelů. Pokud někdo daný druh hledá, bot ho označí v notifikačním kanálu.",
+        "Oprava Modalu v Inzerci: Placeholder pro obrázky byl zkrácen, aby vyhovoval limitům Discord API a nezpůsoboval pády.",
+        "Vylepšení kódu: Refactoring funkcí pro publikování inzerátů a správa importů."
+    ],
+    "image_url": "https://i.imgur.com/OTGV855.png"
+	},
+    {
+    "version": "1.22.0",
+    "date": "2026-02-03",
+    "changes": [
+        "Přidán nový příkaz /inzerce: Umožňuje uživatelům s rolí 'inzeráty a inzerenti' snadno vytvářet strukturované inzeráty.",
+        "Automatická validace druhů: Při prodeji kolonií systém využívá databázi mravenců pro kontrolu názvů a našeptávání.",
+        "Automatické mazání inzerátů: Inzeráty se po 30 dnech automaticky smažou a bot upozorní uživatele v notifikačním kanále.",
+        "Vytvořen systém kategorií inzerce: Kolonie, Formikária, Příslušenství a Ostatní."
+    ],
+    "image_url": "https://i.imgur.com/8cuT5c0.png"
+	},
+    {
+    "version": "1.21.1",
+    "date": "2026-01-11",
+    "changes": [
+        "Vylepšení statistik (/statistiky): Nyní rozlišují mezi aktivními koloniemi a historií (mravenci, které jste vlastnili, ale už nemáte).",
+        "Nový graf historie: Graf vývoje druhů nyní zobrazuje dvě křivky – celkový počet druhů v záznamech vs. aktuálně chované druhy.",
+        "Přesnější žebříčky: Top 10 druhů a chovatelů nyní bere v potaz pouze aktivní kolonie."
+    ],
+    "image_url": "https://i.imgur.com/vOkOLtW.png"
+	},
+    {
+    "version": "1.21.0",
+    "date": "2026-01-11",
+    "changes": [
+        "Vylepšení /seznam: Nyní podporuje záznamy s 0 koloniemi pro účely historie (vlastnil jsem).",
+        "Nový indikátor v /seznam zobrazit:  📜 pro historické záznamy.",
+        "Úprava /seznam odebrat_pocet: Odebrání všech kolonií nyní nemaže záznam, ale přesouvá ho do historie.",
+        "Nové statistiky: Rozdělení na /statistiky aktualni (pouze právě chované) a /statistiky celkem (včetně historie)."
+    ],
+    "image_url": "https://i.imgur.com/RohrR23.png"
+ 	},
+    {
+    "version": "1.20.1",
+    "date": "2026-01-09",
+    "changes": [
+        "Vylepšený systém událostí (/udalosti): Bot nyní inteligentněji čte web Entosphinx.",
+        "Automatické odkazy: Bot rozpozná a přidá odkazy na pozvánky (PDF/obrázky), kontakty (email) a webové stránky akcí.",
+        "Vylepšený embed: Informace o pozvánkách a kontaktech jsou nyní přehledně zobrazeny v samostatné sekci."
+    ],
+    "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.20.1+Smart+Events"
+	},
+    {
+    "version": "1.20.0",
+    "date": "2026-01-09",
+    "changes": [
+        "Přidán nový systém událostí a kalendář akcí (/udalosti).",
+        "Příkaz /udalosti zobrazit: Přehled nadcházejících burz a akcí.",
+        "Příkaz /udalosti pridat_entomo: Automatické načítání burz z Entosphinx.cz.",
+        "Automatické notifikace: Bot upozorní na akci 1 měsíc, 1 týden a 1 den předem."
+    ],
+    "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.20.0+Udalosti"
+	},
+    {
+    "version": "1.19.0",
+    "date": "2026-01-03",
+    "changes": [
+        "Vylepšení příkazu /formikaristika profil: Sloučení argumentů 'rod' a 'druh' do jednoho pole 'nazev'.",
+        "Přidáno našeptávání (Autocomplete): Příkaz /formikaristika profil nyní našeptává dostupné druhy přímo z webu Formikaristika CZ.",
+        "Optimalizace: Sitemap webu se načítá do paměti při startu bota pro rychlejší odezvu a funkčnost našeptávače.",
+        "Úprava main.py: Změna importu a inicializace FormikaristikaCommands v on_ready."
+    ],
+    "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Formikaristika+Update+v1.19.0"
+	},
+    {
+    "version": "1.18.0",
+    "date": "2026-01-02",
+    "changes": [
+        "Oprava příkazu /map: Přidáno odložení odpovědi (defer), což opravuje chybu 'Unknown interaction', pokud serveru trvá zpracování příkazu déle než 3 sekundy."
+    ],
+    "image_url": "https://placehold.co/600x200/FF0000/FFFFFF?text=Hotfix+1.18.0"
+	},
+    {
+    "version": "1.17.1",
+    "date": "2025-08-02",
+    "changes": [
+        "🚀 Kompletní přepracování příkazu /seznam: Přechod na novou, rychlejší JSON databázi.",
+        "🔍 Našeptávání (Autocomplete): Bot nyní při psaní druhu automaticky napovídá existující názvy z databáze.",
+        "✅ Chytrá validace: Podpora pro otevřenou nomenklaturu ('sp.', 'sp. „candy“,' 'cf.', 'nr.') a automatická oprava překlepů.",
+        "🛠️ Zjednodušení zadávání: Sloučení parametrů 'rod' a 'druh' do jednoho pole 'species'.",
+        "📚 Rozšířená data: Interní databáze nyní obsahuje i autory a roky popisů (příprava pro budoucí funkce detailů)."
+    ],
+    "image_url": "https://placehold.co/600x200/2196F3/FFFFFF?text=Update+Seznamu+1.17.1"
+	},
+    {
+    "version": "1.17.0",
+    "date": "2025-07-29",
+    "changes": [
+        "Oddělení příkazů pro seznam: Příkazy /seznam byly přesunuty do samostatného souboru seznam_commands.py pro lepší správu kódu.",
+        "Limit kolonií: Byl zaveden limit maximálně 25 kolonií jednoho druhu na uživatele v seznamu. Toto opatření pomáhá udržet data v rozumných mezích."
+    ],
+    "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.17.0"
+	},
+    {
+        "version": "1.16.1",
+        "date": "2025-12-28",
+        "changes": [
+            "Přidán nový příkaz /map: Umožňuje zobrazit mapu rozšíření mravenců (AntMaps) a odkazy na databáze (AntWeb, AntWiki, atd.) pro zadaný rod nebo druh.",
+            "Aktualizace příkazu /map: Přidáno zápatí (footer) s uvedením zdrojů dat (AntMaps.org, AntApi.org)."
+        ],
+        "image_url": "https://placehold.co/600x200/FF9800/FFFFFF?text=Map+Sources+Update+1.16.1"
+    },
+    {
+    "version": "1.16.0",
+    "date": "2025-12-28",
+    "changes": [
+        "Nový příkaz /formikaristika profil: Komplexní nástroj pro zobrazení informací o mravencích přímo v Discordu.",
+        "Automatické náhledy: Příkaz nyní stahuje úvodní obrázek, výňatek textu a datum poslední úpravy přímo z webu Formikaristika.cz.",
+        "Externí databáze: Pod náhledem se automaticky generují odkazy na AntWeb, AntWiki, AntCat, iNaturalist a AntCheck.",
+        "Inteligentní zobrazení: Rozložení profilu bylo optimalizováno – externí odkazy jsou umístěny přehledně pod informací o poslední aktualizaci článku.",
+        "Archivován příkaz /info"
+    ],
+    "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.16.0"
+	},
+	{
+      "version": "1.15.0",
+      "date": "2025-11-06",
+      "changes": [
+        "Přidána nová skupina příkazů `/checklist` pro sledování nálezů.",
+        "Seznam druhů založen na (Werner et al., 2018) a rozšířen o druhy SR (celkem 117).",
+        "Nový příkaz `/checklist zapsat` otevře okno pro zadání druhu, data a lokality.",
+        "Nový příkaz `/checklist seznam` zobrazí kompletní progress (✅ nalezené, ❌ chybějící).",
+        "Přidán příkaz `/checklist odebrat` pro smazání záznamu.",
+        "Vytvořeny nové soubory `checklist_commands.py` a `checklist_species_czsk.json`."
+      ],
+      "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.15.0"
+    },
+    {
+    "version": "1.14.2",
+    "date": "2025-10-07",
+    "changes": [
+        "Nový zdroj obrázků: Implementováno vyhledávání na Wikimedia Commons přes oficiální API místo HTML scrapování, což zajišťuje stabilnější a rychlejší získávání ilustrací druhů.",
+        "Víceúrovňové vyhledávání: Přidán víceúrovňový systém vyhledávání obrázků – nejprve přímé soubory, poté kategorie a nakonec HTML fallback. Zaručuje nalezení relevantního obrázku i v případech, kdy API vrací prázdné výsledky.",
+        "Zvýšení spolehlivosti: Přidán vlastní `User-Agent` pro komunikaci s Wikimedia Commons API, čímž byla odstraněna chyba 403 Forbidden.",
+        "Optimalizace výkonu: Vylepšeno asynchronní zpracování požadavků a odstraněny nadbytečné kontroly, čímž se zrychlila odezva příkazu `/isop hledat`.",
+        "Zachování vizuální konzistence: Pokud se nepodaří získat žádný obrázek, zobrazí se zástupný obrázek mapy (placeholder) pro jednotný vzhled výstupů."
+    ],
+    "image_url": "https://placehold.co/600x200/2196F3/FFFFFF?text=Verze+1.14.2"
+	},
+    {
+        "version": "1.14.1",
+        "date": "2025-10-07",
+        "changes": [
+            "Odstranění závislosti na iNaturalist: Kompletně odstraněna logika pro scraping obrázků z iNaturalist.org (včetně knihovny `aiohttp`), což výrazně zrychluje provedení příkazu `/isop hledat` a zvyšuje jeho spolehlivost, jelikož se nečeká na externí službu.",
+            "Odstranění debugovacích výpisů: Z kódu byly odstraněny všechny debugovací `print()` zprávy pro čistší logy na hostingu.",
+            "Aktualizace náhledu: Obrázek v embed zprávě byl změněn z dynamicky získaného z iNaturalist na statický placeholder s textem 'ISOP' a barvami pro lepší vizuální konzistenci."
+        ],
+        "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.14.1"
+    },
+    {
+        "version": "1.13.0",
+        "date": "2025-09-22",
+        "changes": [
+            "Přidáno vyhledávání na Faunaaflora.cz: Příkaz /fauna hledat nyní prohledává i inzeráty na webu faunaaflora.cz.",
+            "Aktualizace souboru fauna_commands.py: Byla přidána nová funkce pro scrapování a upraven hlavní příkaz pro zobrazení výsledků ze tří portálů."
+        ],
+        "image_url": "https://www.google.com/search?q=https://placehold.co/600x200/4CAF50/FFFFFF%3Ftext%3DVerze%2B1.12.0"
+    },
+    {
+        "version": "1.12.1",
+        "date": "2025-07-29",
+        "changes": [
+            "Přejmenování příkazu a souboru: Příkaz `/prodava` byl přejmenován na `/fauna` a soubor na `fauna_commands.py` pro lepší přehlednost.",
+            "Oprava asynchronního volání: Vyřešena chyba 'coroutine object is not iterable' zajištěním správného spouštění web scraping funkcí v samostatném vlákně pomocí `asyncio.to_thread`.",
+            "Zobrazení popisků inzerátů: Ke každému výsledku vyhledávání na Faunaportal.cz a iFauna.cz je nyní přidán zkrácený úryvek popisu (max. 60 znaků).",
+            "Informativní zpráva pro Faunaportal.cz: Pokud Faunaportal.cz nevrátí žádné výsledky, bot nyní zobrazí zprávu, která naznačuje, že obsah může být načítán dynamicky JavaScriptem.",
+            "Oprava formátování v Discordu: Upraveno formátování čísel v seznamech výsledků, aby se zabránilo automatickému vytváření číslovaných seznamů Discordem."
+        ],
+        "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.12.1"
+    },
+    {
+        "version": "1.12.0",
+        "date": "2025-07-29",
+        "changes": [
+            "Přidán příkaz /restart: Nový příkaz pro restartování bota přímo z Discordu. K použití je potřeba specifická role (ID: 661971700556234753). Bot oznámí restart a automaticky se znovu spustí.",
+            "Zajištěno ukládání dat před restartem: Všechna kritická data (skóre, seznamy mravenců, wishlisty, historická data, návrhy otázek a kvízové otázky) jsou nyní automaticky uložena před provedením restartu, aby se předešlo ztrátě dat."
+        ],
+        "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.12.0"
+    },
+    {
+        "version": "1.11.0",
+        "date": "2025-07-29",
+        "changes": [
+            "Přejmenování příkazu /prodava na /fauna: Příkaz pro vyhledávání inzerátů na Faunaportal.cz a iFauna.cz byl přejmenován pro lepší přehlednost.",
+            "Přejmenování souboru prodava_commands.py na fauna_commands.py: Soubor s logikou pro vyhledávání inzerátů byl přejmenován, aby odpovídal novému názvu příkazu."
+        ],
+        "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.11.0"
+    },
+    {
+        "version": "1.10.0",
+        "date": "2025-07-27",
+        "changes": [
+            "Vylepšeno vyhledávání /info vyhledat: Rozšířena flexibilita pro přidávání nových externích zdrojů informací.",
+            "Vylepšeno vyhledávání /info vyhledat: Upravena logika parsování výsledků pro lepší kompatibilitu s různými weby.",
+            "Vylepšeno vyhledávání /info vyhledat: Rozšířena podpora pro vyhledávání na Redditu o další subreddity: r/antkeeping, r/Formikaristika, r/AntsAdvice."
+        ],
+        "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.10.0"
+    },
+    {
+        "version": "1.9.0",
+        "date": "2025-07-23",
+        "changes": [
+            "### Vylepšení slovníku (/slovnik)",
+            " **Vylepšené zpracování odkazů viz:**",
+            " Při vyhledání termínu, který odkazuje na jiný termín (např. viz jiný_termín), se v titulku embedu nyní zobrazí **původní hledaný termín**. Vysvětlení pod ním pak explicitně uvede, že je součástí cílového termínu.",
+            " Pokud cílový termín za odkazem viz není nalezen, bot vás na to upozorní.",
+            " **Vylepšené vyhledávání termínů:**",
+            " Nyní stačí zadat **jedno slovo** z termínu (např. `/slovnik hledat alát` pro Alát, alátní a dealát, dealátní).",
+            " Vyhledávání je robustnější a zohledňuje částečné shody."
+        ],
+        "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.9.0"
+    },
+    {
+        "version": "1.8.0",
+        "date": "N/A",
+        "changes": [
+            "**Nový příkaz `/patch_notes`:** Zobrazuje historii změn a aktualizací bota.",
+            "**Úprava zobrazení dat patchů:** Datumy vydání patchů byly nahrazeny zástupným textem (N/A) z důvodu nepřesnosti původních dat."
+        ],
+        "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.8.0"
+    },
+    {
+        "version": "1.7.0",
+        "date": "N/A",
+        "changes": [
+            "**Vylepšení slovníku (/slovnik)**",
+            "Vylepšené zpracování odkazů \"viz\":",
+            "Pokud vyhledáte termín, který odkazuje na jiný termín (např. \"viz jiný_termín\"), bot se nyní pokusí automaticky zobrazit vysvětlení cílového termínu.",
+            "Zobrazí se zpráva, která indikuje, že se jedná o přesměrování, a ukáže původní i cílový termín pro lepší přehlednost.",
+            "Pokud cílový termín za odkazem \"viz\" není nalezen, bot vás na to upozorní."
+        ],
+        "image_url": "https://placehold.co/600x200/8BC34A/FFFFFF?text=Verze+1.7.0"
+    },
+    {
+        "version": "1.6.0",
+        "date": "N/A",
+        "changes": [
+            "Implementována skupina příkazů `/slovnik` pro vyhledávání termínů z Formikaristika CZ.",
+            "Podpora pro přesměrování 'viz' termínů ve slovníku.",
+            "Vylepšené fuzzy vyhledávání termínů."
+        ],
+        "image_url": "https://placehold.co/600x200/FFEB3B/000000?text=Verze+1.6.0"
+    },
+    {
+        "version": "1.5.0",
+        "date": "N/A",
+        "changes": [
+            "Přidána skupina příkazů `/isop` pro vyhledávání na ISOP portálu (ČR).",
+            "Zobrazení karty druhu a nálezové mapy ČR.",
+            "Integrace obrázků z iNaturalist pro `/isop` a `/biosk`."
+        ],
+        "image_url": "https://placehold.co/600x200/607D8B/FFFFFF?text=Verze+1.5.0"
+    },
+    {
+        "version": "1.4.0",
+        "date": "N/A",
+        "changes": [
+            "Rozšířeny statistiky o chovaných mravencích (`/statistiky seznamy`).",
+            "Přidán sloupcový graf Top 10 nejčastějších druhů.",
+            "Implementována historická data a grafy (`/statistiky historie`)."
+        ],
+        "image_url": "https://placehold.co/600x200/795548/FFFFFF?text=Verze+1.4.0"
+    },
+    {
+        "version": "1.3.0",
+        "date": "N/A",
+        "changes": [
+            "Přidána skupina příkazů `/info` pro vyhledávání na externích fórech.",
+            "Podpora pro více fór (Myrmecofourmis, Ameisenhaltung, Formiculture atd.).",
+            "Vylepšené parsování výsledků vyhledávání."
+        ],
+        "image_url": "https://placehold.co/600x200/9C27B0/FFFFFF?text=Verze+1.3.0"
+    },
+    {
+        "version": "1.2.0",
+        "date": "N/A",
+        "changes": [
+            "Implementována skupina příkazů `/formikaristika` pro procházení webu Formikaristika.cz.",
+            "Dynamické načítání sitemap.xml pro aktuální obsah.",
+            "Zobrazení detailů článků (výňatek, autor, obrázek)."
+        ],
+        "image_url": "https://placehold.co/600x200/FFC107/000000?text=Verze+1.2.0"
+    },
+    {
+        "version": "1.1.0",
+        "date": "N/A",
+        "changes": [
+            "Přidána skupina příkazů `/wishlist` pro správu seznamu přání.",
+            "Možnost zamknout/odemknout wishlist.",
+            "Vylepšené zobrazení seznamů mravenců a wishlistů pomocí PaginatorView."
+        ],
+        "image_url": "https://placehold.co/600x200/2196F3/FFFFFF?text=Verze+1.1.0"
+    },
+    {
+        "version": "1.0.0",
+        "date": "N/A",
+        "changes": [
+            "Počáteční vydání FormiBota.",
+            "Základní příkazy: `/ping`, `/profil`, `/seznam`.",
+            "Implementován systém skóre pro kvízy.",
+            "Podpora pro ukládání a načítání dat z JSON souborů."
+        ],
+        "image_url": "https://placehold.co/600x200/4CAF50/FFFFFF?text=Verze+1.0.0"
+    }
+]
